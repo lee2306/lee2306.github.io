@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:lee2306/lee2306.github.io.git
+  branch: main
